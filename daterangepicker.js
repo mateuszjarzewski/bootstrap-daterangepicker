@@ -608,7 +608,8 @@
                 this.chosenLabel = this.container.find('.ranges li:last').addClass('active').html();
                 this.showCalendars();
             }
-
+          
+          
         },
 
         renderCalendar: function(side) {
